@@ -36,3 +36,5 @@ for job_d in data_jobs:
      print('\n----------\n'+ str(job_d.text.encode('utf-8').strip()))
      link= job_d.find('a')['href'] # when using ('a',class_='href') returnes none objects
      print(link.encode('utf-8'))
+     
+# adding comment 1
