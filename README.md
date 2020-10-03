@@ -1,3 +1,3 @@
 # Web-Scrapper
-A python web scrapper (using requests, beautifulSoup and io.open)
+A python web scrapper (using requests, beautifulSoup)
 
